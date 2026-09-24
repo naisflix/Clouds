@@ -1,0 +1,9 @@
+{
+    "name": "NaisFlix Repo",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+    "description": "NaisFlix Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/naisflix/Clouds/refs/heads/main/plugins.json"
+    ]
+}
