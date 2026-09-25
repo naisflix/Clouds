@@ -1,0 +1,384 @@
+[
+    {
+        "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 75157,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"            
+        ],
+        "version": 1,
+        "internalName": "Moviebox",
+         "description": "Includes: Netnaija, Sflix",       
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Moviebox.cs3",
+        "name": "Moviebox"
+    },   
+    {
+        "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-902b30af1faf8af2144604a73e91df7dc1fb282ed53eabd9573494408f76b0fe",       
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 41940,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Series"
+        ],
+        "version": 14,
+        "internalName": "MovieBoxProvider",
+        "description": "Moviebox🤕 Lite max resolusi 480p",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },   
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-021e8621152d33ebac2dd1fcf0c9c26ce6767e16045178e7df66377f7a5894b2",       
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 33866,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92,CodeSanzz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 25,
+        "internalName": "AnichinMoe",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/AnichinMoe.cs3",
+        "name": "AnichinMoe"
+    },   
+    {
+        "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
+        "apiVersion": 1,
+        "fileHash": "sha256-d97914753865daabfad7f5635ec701ba0dd642ea69a6b21581064aae300ea0cd",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 87853,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "Animexin",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
+        "name": "Animexin"
+    },   
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=d21.team&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-35c0db4dd49b38d05dc01b861b59604ba0d5178b8a6434a574674e19baf2c58c",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 87087,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 10,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "fileHash": "sha256-a76a550c76771aa0573edbd7e51c12c8c00da829a59074c820a53644e91467d7",       
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 1621113,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC,Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "AnimeMovie",
+            "Movie",
+            "Cartoon",
+            "TvSeries"
+        ],
+        "version": 673,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/SwTXWck9/dutamovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 27347,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Asm0d3usX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Dutamovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 24041,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Filmkita",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Filmkita.cs3",
+        "name": "Filmkita"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 51520,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Idlix",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/6cCQ1h87/indomax.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 20883,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Indomax",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Indomax.cs3",
+        "name": "Indomax"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/KjQdk4YC/kawanfilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 27616,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Kawanfilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Kawanfilm.cs3",
+        "name": "Kawanfilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 21909,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Z1YVFHNS/nomat.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 19451,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Nomat",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Nomat.cs3",
+        "name": "Nomat"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/Y7dqMBrr/pencurimovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 16517,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Pencurimovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pencurimovie.cs3",
+        "name": "Pencurimovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/qFdDYpcD/pusatmovie.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 23941,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Pusatmovie",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pusatmovie.cs3",
+        "name": "Pusatmovie"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/bMKwcDtH/sarangfilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 29763,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Sarangfilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Sarangfilm.cs3",
+        "name": "Sarangfilm"
+    },
+    {
+        "iconUrl": "https://i.ibb.co.com/HptN2Q7m/savefilm.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 21933,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Savefilm",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Savefilm.cs3",
+        "name": "Savefilm"
+    },    
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
+        "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
+        "fileSize": 73662,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "duro92"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "FreeReels",
+        "description": "FreeReels short drama provider",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
+        "name": "FreeReels"
+    }
+]
