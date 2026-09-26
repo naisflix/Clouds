@@ -84,25 +84,24 @@
         "name": "Animexin"
     },   
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=d21.team&sz=%size%",
+        "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-35c0db4dd49b38d05dc01b861b59604ba0d5178b8a6434a574674e19baf2c58c",       
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 87087,
+        "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+        "fileSize": 51923,
         "status": 1,
         "language": "id",
         "authors": [
-            "NivinCNC,Phisher98"
+            "Hexated",
+            "Asm0d3usX"
         ],
         "tvTypes": [
-            "AsianDrama",
             "Movie",
             "TvSeries"
         ],
-        "version": 10,
-        "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
-        "name": "LayarKacaProvider"
+        "version": 1,
+        "internalName": "LayarKaca",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
+        "name": "LayarKaca"
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
