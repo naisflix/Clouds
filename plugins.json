@@ -107,9 +107,9 @@
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-8ef21fb77d060cfd7cd8326eae5bf069a983b996a74aa4de66d684cfc6a65e56",       
+        "fileHash": "sha256-aac2f5ce5fca0fdbd6db1a9d6e21b15d199f9c424cf83994578254fefbd2a491",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 1747326,
+        "fileSize": 1747775,
         "status": 1,
         "language": "en",
         "authors": [
