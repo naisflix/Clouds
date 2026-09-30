@@ -4,6 +4,6 @@
     "description": "NaisFlix Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/naisflix/Clouds/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/naisdr/nais-repo/refs/heads/main/plugins.json"
     ]
 }
