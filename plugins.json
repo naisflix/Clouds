@@ -4,7 +4,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 75157,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -26,7 +26,7 @@
         "fileHash": "sha256-902b30af1faf8af2144604a73e91df7dc1fb282ed53eabd9573494408f76b0fe",       
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
         "fileSize": 41940,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "NivinCNC,Phisher98"
@@ -47,7 +47,7 @@
         "fileHash": "sha256-021e8621152d33ebac2dd1fcf0c9c26ce6767e16045178e7df66377f7a5894b2",       
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
         "fileSize": 33866,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Duro92,CodeSanzz"
@@ -68,7 +68,7 @@
         "fileHash": "sha256-d97914753865daabfad7f5635ec701ba0dd642ea69a6b21581064aae300ea0cd",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 87853,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "NivinCNC,Phisher98"
@@ -89,7 +89,7 @@
         "fileHash": "sha256-35c0db4dd49b38d05dc01b861b59604ba0d5178b8a6434a574674e19baf2c58c",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 87087,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "NivinCNC,Phisher98"
@@ -110,7 +110,7 @@
         "fileHash": "sha256-97b385e05aa6d074a505f7b3712b63129547af1111553bee012da182995013a9",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 1763849,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "NivinCNC,Phisher98"
@@ -134,7 +134,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 27347,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -156,7 +156,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 24041,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -176,7 +176,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 51520,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -198,7 +198,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 20883,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -220,7 +220,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 27616,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -240,7 +240,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 21909,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -262,7 +262,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 19451,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -282,7 +282,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 16517,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated",
@@ -304,7 +304,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 23941,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -324,7 +324,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 29763,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -344,7 +344,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
         "fileSize": 21933,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "Hexated"
@@ -366,7 +366,7 @@
         "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
         "repositoryUrl": "https://github.com/Pendztagram/extcloudtcloud",
         "fileSize": 73662,
-        "status": 1,
+        "status": 0,
         "language": "id",
         "authors": [
             "duro92"
